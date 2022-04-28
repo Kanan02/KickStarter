@@ -1,0 +1,34 @@
+.main-content{
+   font-size: 140%;
+}
+.main-content2{
+    font-size: 125%;
+ }
+.rules-list{
+    list-style-type: none;
+}
+.trust-comm-list{
+    list-style-type: disc;
+}
+.bold-font{
+    font-weight: 500;
+}
+.blue-color{
+    color: blue;
+}
+.helper-div{
+    background-color: #F0F0F0;
+}
+.greenbtn{
+    font-size: 80%;
+    margin: 5px;
+    background-color: #028858;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+}
+.greenbtn:hover{
+    background-color: #015738;
+    color: white;
+
+}

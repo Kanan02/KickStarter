@@ -1,0 +1,76 @@
+
+.back-photo1{
+    background-image: url("../../img/aboutphoto1.jpg");
+    background-position: 0 30%;
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text-box{
+    position: relative;
+    top:-20%;
+    left:-3%;
+    color: #FFFFFF;
+    border-radius: 0;
+    z-index: 101;
+    height: 230px;
+    align-items: center;
+    width: 740px;
+    
+}
+.font-fam{
+    font-family: 'Inria Serif', serif;
+    font-weight: 400;
+    line-height: 1.9;
+}
+.mid-text{
+    
+    font-size: 100%;
+}
+.blue{
+    background-color: #00007d;
+}
+.centered-text{
+    font-size: 200%;
+    width: 50%;
+    margin-left: 25%;
+    position: relative;
+    top: 30%;
+}
+.underlined{
+    border-bottom: 1px solid #2752ff;
+    padding-bottom: 1px;
+}
+
+.back-photo2{
+    background-image: url("../../img/aboutphoto2.avif");
+    background-position: 0 30%;
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.centered-text2{
+    font-size: 180%;
+    width: 50%;
+    margin-left: 25%;
+    position: relative;
+    top: 25%;
+    
+}
+.authorname{
+    font-weight: 300;
+    font-size: 50%;
+
+}
+.orange{
+    background-color: #ff7d5f;
+    height: 300px;
+}
+
+.left-text{
+    font-family: "Maison Neue Book", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", FreeSans, sans-serif;
+    font-size: 150%;
+    font-weight: 500;
+    line-height: 1.4;
+}
